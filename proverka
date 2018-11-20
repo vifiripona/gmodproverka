@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+   <head>
+   <meta charset="UTF-8">
+   <title>Garry's Mod</title>
+   </head>
+   <style>
+  body { background: url(_pBs_Yb2gis.jpg); }
+</style>
+ 
+ <body>
+  <h1><font color="blue"><strong>Garry's Mod</strong></font></h1>
+ <h2><font color="brown">График Проверок</font></h2>
+ <h3><a href="https://vk.com/millenium___draft">Группа Вк</a></h3>
+ <table border="5" bordercolor="#BA55D3"bgcolor="#FAF0E6"  width="400" height="150">
+ <div>
+ <tr>
+ <td><strong><font color="purple">Понедельник</font></strong></td>
+ <td><strong><font color="red">Нет</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Вторник</font></strong></td>
+ <td><strong><font color="green">Да</font></strong></td>
+ <td><strong><font color="blue">17:00</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Среда</font></strong></td>
+ <td><strong><font color="red">Нет</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Четверг</font></strong></td>
+ <td><strong><font color="green">Да</font</strong></td>
+ <td><strong><font color="blue">17:00</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Пятница</font></strong></td>
+ <td><strong><font color="red">Нет</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Суббота</font></strong></td>
+ <td><strong><font color="green">Да</font></strong></td>
+ <td><strong><font color="blue">17:00</font></strong></td>
+ </tr>
+ <tr>
+ <td><strong><font color="purple">Воскресенье</font></strong></td>
+ <td><strong><font color="red">Нет</font></strong></td>
+ </tr>
+ </table>
+ </div>
+ 
+ </body>
